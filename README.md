@@ -7,3 +7,6 @@ https://www.howtogeek.com/118452/how-to-map-network-drives-from-the-command-prom
 
 ## access network drives in windows version of tsm
 http://www-01.ibm.com/support/docview.wss?uid=swg1IC92829
+
+## science and data visualisation / more comfortable programming
+https://brushingupscience.wordpress.com/
